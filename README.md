@@ -72,7 +72,7 @@ https://your-username.github.io/static-website/
 
 - 🔗 **Live Website:** `https://alank8s-cloud-code.github.io/my_portfolio/`
 
-![Website portfolio](asset/output/.png)
+![Website portfolio](assets/output/myportfolio.png)
 
 ---
 
