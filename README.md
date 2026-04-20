@@ -74,7 +74,6 @@ https://alank8s-cloud-code.github.io/my_portfolio/
 
 ![Website Portfolio](asset/portfolio.png)
 
-
 ---
 
 - 🔗 **Live Website:** [https://alank8s-cloud-code.github.io/my_portfolio/](https://alank8s-cloud-code.github.io/my_portfolio/)
