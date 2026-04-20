@@ -34,8 +34,8 @@ static-website/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/static-website.git
-cd static-website
+git clone https://github.com/alank8s-cloud-code/my_portfolio.git
+cd my_portfolio
 ```
 
 ### 2. Initialize & Push to GitHub
@@ -70,21 +70,15 @@ https://your-username.github.io/static-website/
 
 ## ✅ Deliverables
 
-- 🔗 **Live Website:** `https://your-username.github.io/static-website/`
-- 📦 **GitHub Repository:** `https://github.com/your-username/static-website`
+- 🔗 **Live Website:** `https://alank8s-cloud-code.github.io/my_portfolio/`
+
+![Website portfolio](asset/output/.png)
 
 ---
 
-## 🎨 Optional Improvements
-
-- Add responsive design using CSS media queries
-- Include images and icons in the `assets/` folder
-- Add JavaScript for interactivity
-- Use Google Fonts for better typography
-- Integrate a CSS framework like Bootstrap or Tailwind
+## 📘 What I learned
+I learned how to create a static website using HTML, push it to GitHub, enable GitHub Pages, and deploy it online to make it publicly accessible.
 
 ---
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
