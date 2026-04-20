@@ -1,0 +1,26 @@
+name: My PortFolio 
+
+on: 
+  push:
+   branches:
+    - main
+   paths:
+    - "*.html"
+
+jobs:
+  update_portfolio:
+   runs-on: ubuntu-latest
+   steps:
+     - name: code Checkout
+       uses: actions/checkout@v5
+
+     - name: setup github page
+       uses: actions/configure-pages@v4
+
+     - name: Upload static files
+       uses: actions/upload-pages-artifact@v3
+       with:
+         path: .
+     - name: Deploy to Github Pages
+       id: deployment
+       uses: actions/deploy-pages@v4
