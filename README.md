@@ -71,7 +71,7 @@ https://alank8s-cloud-code.github.io/my_portfolio/
 
 ## ✅ Deliverables
 
-![Website Portfolio](assets/myportfolio.png)
+![Website Portfolio](https://raw.githubusercontent.com/alank8s-cloud-code/my_portfolio/main/assets/myportfolio.png)
 
 ---
 
