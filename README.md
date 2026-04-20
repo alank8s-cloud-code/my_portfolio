@@ -70,7 +70,7 @@ https://your-username.github.io/static-website/
 
 ## ✅ Deliverables
 
-![Website portfolio](./assets/output/myportfolio.png)
+![Website portfolio](/assets/output/myportfolio.png)
 
 ---
 
