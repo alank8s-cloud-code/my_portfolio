@@ -70,10 +70,10 @@ https://your-username.github.io/static-website/
 
 ## ✅ Deliverables
 
-- 🔗 **Live Website:** `https://alank8s-cloud-code.github.io/my_portfolio/`
-
 ![Website portfolio](assets/output/myportfolio.png)
 
+---
+- 🔗 **Live Website:** `https://alank8s-cloud-code.github.io/my_portfolio/`
 ---
 
 ## 📘 What I learned
