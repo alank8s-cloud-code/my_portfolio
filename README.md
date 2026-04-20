@@ -1,6 +1,7 @@
 # 🌐 TASK 6: Host a Static Website with GitHub Pages
 
 ## 🎯 Objective
+
 A simple static website built with HTML and CSS, deployed live using **GitHub Pages** — no server or backend required.
 
 ---
@@ -12,7 +13,7 @@ static-website/
 │
 ├── index.html          # Main HTML page (entry point and CSS styling for the website)
 ├── assets/             # Static assets folder
-│   ├── output
+│   └── output/         # Output files (screenshots, exports)
 └── README.md           # Project documentation (this file)
 ```
 
@@ -20,12 +21,12 @@ static-website/
 
 ## 🛠️ Tech Stack
 
-| Technology     | Purpose                        |
-|----------------|--------------------------------|
-| HTML5          | Page structure and content     |
-| CSS3           | Styling and layout             |
-| GitHub         | Version control and hosting    |
-| GitHub Pages   | Free static site deployment    |
+| Technology   | Purpose                     |
+|--------------|-----------------------------|
+| HTML5        | Page structure and content  |
+| CSS3         | Styling and layout          |
+| GitHub       | Version control and hosting |
+| GitHub Pages | Free static site deployment |
 
 ---
 
@@ -45,7 +46,7 @@ git init
 git add .
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/your-username/static-website.git
+git remote add origin https://github.com/alank8s-cloud-code/my_portfolio.git
 git push -u origin main
 ```
 
@@ -63,22 +64,24 @@ git push -u origin main
 After a few seconds, your site will be live at:
 
 ```
-https://your-username.github.io/static-website/
+https://alank8s-cloud-code.github.io/my_portfolio/
 ```
 
 ---
 
 ## ✅ Deliverables
 
-- 🔗 **Live Website:** `https://alank8s-cloud-code.github.io/my_portfolio/`
-
-![Website portfolio](asset/output/.png)
+![Website Portfolio](/assets/output/myportfolio.png)
 
 ---
 
-## 📘 What I learned
+- 🔗 **Live Website:** [https://alank8s-cloud-code.github.io/my_portfolio/](https://alank8s-cloud-code.github.io/my_portfolio/)
+- 📦 **GitHub Repository:** [https://github.com/alank8s-cloud-code/my_portfolio](https://github.com/alank8s-cloud-code/my_portfolio)
+
+---
+
+## 📘 What I Learned
+
 I learned how to create a static website using HTML, push it to GitHub, enable GitHub Pages, and deploy it online to make it publicly accessible.
 
 ---
-
-
