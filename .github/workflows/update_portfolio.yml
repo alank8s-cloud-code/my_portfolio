@@ -7,6 +7,10 @@ on:
    paths:
     - "*.html"
 
+permissions:
+  id-token: write
+  contents: read
+
 jobs:
   update_portfolio:
    runs-on: ubuntu-latest
